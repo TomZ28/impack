@@ -1,4 +1,4 @@
-# Image-Packer
+# impack
 A program for hiding files in images.  
 
 ## How does it work?
